@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="libreria.xsl" type="text/xsl"?>
+<libreria>
+    <libro>
+        <titulo>Physics-based animation</titulo>
+        <autor>Kenny Erleben</autor>
+        <editor>Charles River Media</editor>
+        <isbn>978-1584503804</isbn>
+        <precio>50.06</precio>
+        <numPaginas>562</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Principios de seguridad informatica para usuarios</titulo>
+        <autor>Carlos Garre</autor>
+        <editor>Dykinson</editor>
+        <isbn>978-84-9849-998-8</isbn>
+        <precio>13.00</precio>
+        <numPaginas>345</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Ejercicios complementarios de logica digital</titulo>
+        <autor>Alberto Sanchez</autor>
+        <editor>Dykinson</editor>
+        <isbn>978-84-9849-703-8</isbn>
+        <precio>12.00</precio>
+        <numPaginas>174</numPaginas>
+    </libro>
+    <libro>
+        <titulo>El ninio que se enfado con la muerte</titulo>
+        <autor>Enric Benito</autor>
+        <editor>HarperCollins</editor>
+        <isbn>9788410021877</isbn>
+        <precio>05.00</precio>
+        <numPaginas>224</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Maldita Roma</titulo>
+        <autor>Santiago Posterguillo</autor>
+        <editor>B</editor>
+        <isbn>9788466676564</isbn>
+        <precio>10.00</precio>
+        <numPaginas>896</numPaginas>
+    </libro>
+</libreria>

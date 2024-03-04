@@ -12,6 +12,7 @@
                         <th>Precio</th>
                     </tr>
                     <xsl:for-each select="libreria/libro">
+                    <xsl:sort select="precio"/>
                     <tr>
                         <td><xsl:value-of select="isbn"/></td>
                         <td><xsl:value-of select="titulo"/></td>
