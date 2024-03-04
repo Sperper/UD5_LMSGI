@@ -7,6 +7,7 @@
         <editor>Charles River Media</editor>
         <isbn>978-1584503804</isbn>
         <precio>50.06</precio>
+        <numPaginas>562</numPaginas>
     </libro>
     <libro>
         <titulo>Principios de seguridad informática para usuarios</titulo>
@@ -14,6 +15,7 @@
         <editor>Dykinson</editor>
         <isbn>978-84-9849-998-8</isbn>
         <precio>13.00</precio>
+        <numPaginas>345</numPaginas>
     </libro>
     <libro>
         <titulo>Ejercicios complementarios de lógica digital</titulo>
@@ -21,12 +23,22 @@
         <editor>Dykinson</editor>
         <isbn>978-84-9849-703-8</isbn>
         <precio>12.00</precio>
+        <numPaginas>174</numPaginas>
     </libro>
     <libro>
-        <titulo>Ejercicios complementarios de lógica digital</titulo>
-        <autor>Alberto Sánchez</autor>
-        <editor>Dykinson</editor>
-        <isbn>978-84-9849-703-8</isbn>
-        <precio>12.00</precio>
+        <titulo>El niño que se enfadó con la muerte</titulo>
+        <autor>Enric Benito</autor>
+        <editor>HarperCollins</editor>
+        <isbn>9788410021877</isbn>
+        <precio>5.00</precio>
+        <numPaginas>224</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Maldita Roma</titulo>
+        <autor>Santiago Posterguillo</autor>
+        <editor>B</editor>
+        <isbn>9788466676564</isbn>
+        <precio>9.00</precio>
+        <numPaginas>896</numPaginas>
     </libro>
 </libreria>

@@ -3,16 +3,18 @@
 <xsl:template match="/">
     <html>
         <body>
-            <h1>Mi biblioteca</h1>
+            <h1>Mi biblioteca personal</h1>
                 <table>
-                    <tr bgcolor="#887788">
+                    <tr bgcolor="#FF2D00">
                         <th>Titulo</th>
                         <th>Autor</th>
                     </tr>
                     <xsl:for-each select="libreria/libro">
                     <tr>
+                        <td><xsl:value-of select="isbn"/></td>
                         <td><xsl:value-of select="titulo"/></td>
                         <td><xsl:value-of select="autor"/></td>
+                        <td><xsl:value-of select="precio"/></td>
                     </tr>
                     </xsl:for-each>
                 </table>
