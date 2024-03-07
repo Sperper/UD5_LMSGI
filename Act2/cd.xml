@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CdWallet>
+    <cd>
+        <album>
+            <titulo>The Platinum Colection</titulo>
+            <artista>Funzo and Babby Loud</artista>
+            <canciones>
+                <cancion>
+                    <titulo>Bohemiam Rhapsody</titulo>
+                    <duracionMin>6</duracionMin>
+                <cancion>
+                <cancion>
+                    <titulo>Another One Bites The Dust</titulo>
+                    <duracionMin>4</duracionMin>
+                <cancion>
+            </canciones>
+            <selloDiscografico>Parlophone</selloDiscografico>
+            <año>2011<año>
+        </album>
+    </cd>
+    <cd>
+        <album>
+            <titulo>Greatest Hits</titulo>
+            <artista>Bruce Springteen</artista>
+            <canciones>
+                <cancion>
+                    <titulo>Born to Run</titulo>
+                    <duracionMin>3</duracionMin>
+                <cancion>
+                <cancion>
+                    <titulo>Badlands</titulo>
+                    <duracionMin>2</duracionMin>
+                <cancion>
+            </canciones>
+            <selloDiscografico>Legacy</selloDiscografico>
+            <año>2009<año>
+        </album>
+    </cd>
+    <cd>
+        <album>
+            <titulo>ABBA Gold</titulo>
+            <artista>Abba</artista>
+            <canciones>
+                <cancion>
+                    <titulo>Dancing Queen</titulo>
+                    <duracionMin>5</duracionMin>
+                <cancion>
+                <cancion>
+                    <titulo>Mamma Mia</titulo>
+                    <duracionMin>2</duracionMin>
+                <cancion>
+            </canciones>
+            <selloDiscografico>Polar Music International AB</selloDiscografico>
+            <año>2008<año>
+        </album>
+    </cd>
+    <cd>
+        <album>
+            <titulo>Back in Black</titulo>
+            <artista>ACDC</artista>
+            <canciones>
+                <cancion>
+                    <titulo>Hells Bells</titulo>
+                    <duracionMin>3</duracionMin>
+                <cancion>
+                <cancion>
+                    <titulo>Back in Black</titulo>
+                    <duracionMin>6</duracionMin>
+                <cancion>
+            </canciones>
+            <selloDiscografico>Legacy</selloDiscografico>
+            <año>2000<año>
+        </album>
+    </cd>
+    <cd>
+        <album>
+            <titulo>The Darkside of the Moon</titulo>
+            <artista>Pink Floyd</artista>
+            <canciones>
+                <cancion>
+                    <titulo>Speak to me</titulo>
+                    <duracionMin>2</duracionMin>
+                <cancion>
+                <cancion>
+                    <titulo>Time</titulo>
+                    <duracionMin>3</duracionMin>
+                <cancion>
+            </canciones>
+            <selloDiscografico>Pink Floyd Music LTD</selloDiscografico>
+            <año>2016<año>
+        </album>
+    </cd>
+    <cd>
+        <album>
+            <titulo>Legend</titulo>
+            <artista>Bob Marley</artista>
+            <canciones>
+                <cancion>
+                    <titulo>Is This Love</titulo>
+                    <duracionMin>2</duracionMin>
+                <cancion>
+                <cancion>
+                    <titulo>Exodus</titulo>
+                    <duracionMin>4</duracionMin>
+                <cancion>
+            </canciones>
+            <selloDiscografico>Island</selloDiscografico>
+            <año>2020<año>
+        </album>
+    </cd>
+    <cd>
+        <album>
+            <titulo>Back to Black</titulo>
+            <artista>Amy Winehouse</artista>
+            <canciones>
+                <cancion>
+                    <titulo>Rehab</titulo>
+                    <duracionMin>5</duracionMin>
+                <cancion>
+                <cancion>
+                    <titulo>Just Friends</titulo>
+                    <duracionMin>3</duracionMin>
+                <cancion>
+            </canciones>
+            <selloDiscografico>Universal</selloDiscografico>
+            <año>2001<año>
+        </album>
+    </cd>
+    <cd>
+        <album>
+            <titulo>Thriller</titulo>
+            <artista>Michael Jackson</artista>
+            <canciones>
+                <cancion>
+                    <titulo>Thriller</titulo>
+                    <duracionMin>2</duracionMin>
+                <cancion>
+                <cancion>
+                    <titulo>Baby be Mine</titulo>
+                    <duracionMin>3</duracionMin>
+                <cancion>
+            </canciones>
+            <selloDiscografico>Legacy</selloDiscografico>
+            <año>1980<año>
+        </album>
+    </cd>
+    <cd>
+        <album>
+            <titulo>30</titulo>
+            <artista>Adele</artista>
+            <canciones>
+                <cancion>
+                    <titulo>Easy on Me</titulo>
+                    <duracionMin>2</duracionMin>
+                <cancion>
+                <cancion>
+                    <titulo>Hold On</titulo>
+                    <duracionMin>4</duracionMin>
+                <cancion>
+            </canciones>
+            <selloDiscografico>Sony Intl and Dance</selloDiscografico>
+            <año>2017<año>
+        </album>
+    </cd>
+</CdWallet>
