@@ -12,6 +12,7 @@
                         <th>Anio_de_Publicacion</th>
                     </tr>
                     <xsl:for-each select="CdWallet/cd">
+                    <xsl:if test="selloDiscografico = Legacy"></xsl:if>
                     <tr>
                         <td><xsl:value-of select="titulo"/></td>
                         <td><xsl:value-of select="artista"/></td>

@@ -6,18 +6,16 @@
             <h1>Discos de Musica</h1>
                 <table>
                     <tr bgcolor="#FF2D00">
-                        <th>TituloAlbum</th>
-                        <th>Artista</th>
-                        <th>Sello_Discografico</th>
-                        <th>Anio_de_Publicacion</th>
+                        <th>Cancion1</th>
+                        <th>Cancion2</th>
                     </tr>
                     <xsl:for-each select="CdWallet/cd">
+                    <xsl:if test="artista = Abba">
                     <tr>
-                        <td><xsl:value-of select="titulo"/></td>
-                        <td><xsl:value-of select="artista"/></td>
-                        <td><xsl:value-of select="selloDiscografico"/></td>
-                        <td><xsl:value-of select="anio"/></td>
+                        <td><xsl:value-of select="tituloCancion"/></td>
+                        <td><xsl:value-of select="tituloCancion2"/></td>
                     </tr>
+                    </xsl:if>
                     </xsl:for-each>
                 </table>
         </body>
